@@ -2826,7 +2826,7 @@ debug@2.6.9, debug@^2.1.2, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.
   dependencies:
     ms "2.0.0"
 
-debug@=3.1.0:
+debug@3.1.0, debug@=3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
   integrity sha512-OX8XqP7/1a9cqkxYw2yXss15f26NKWBpDXQd0/uK/KPqdQhxbPa994hnzjcE2VqQpDslf55723cKPUOGSmMY3g==
@@ -4760,6 +4760,11 @@ inquirer@6.2.0, inquirer@^6.1.0:
     string-width "^2.1.0"
     strip-ansi "^4.0.0"
     through "^2.3.6"
+
+interleave-array@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/interleave-array/-/interleave-array-1.0.1.tgz#2c1b67816d8acf9eea8a761e1a03111cee7c55de"
+  integrity sha1-LBtngW2Kz57qinYeGgMRHO58Vd4=
 
 internal-ip@^3.0.1:
   version "3.0.1"
@@ -8567,6 +8572,13 @@ send@0.16.2:
     on-finished "~2.3.0"
     range-parser "~1.2.0"
     statuses "~1.4.0"
+
+sentence-tokenizer@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/sentence-tokenizer/-/sentence-tokenizer-1.0.0.tgz#d2f7047844993724be529ca004f966908b045eac"
+  integrity sha512-zVc8rVWi243vdX7XLYsZFAVMI05cmbko5ynrE4Tg7A938XroNKDgdkhLpuoceNt0hkLqQtu/quuvFC7k5gHgtQ==
+  dependencies:
+    debug "3.1.0"
 
 serialize-javascript@^1.4.0:
   version "1.5.0"

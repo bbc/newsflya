@@ -1,0 +1,203 @@
+{
+    "cacheFieldsInStorylineDone": true,
+    "contentDetectedLangCode": "es",
+    "customMetadata": {},
+    "engDetectedTopics": {
+        "cat_english": {
+            "tags": [
+                ["energy", "0.14250"],
+                ["global ideas", "0.10901"],
+                ["environment", "0.09723"],
+                ["climate", "0.05559"],
+                ["question of the week", "0.03444"],
+                ["renewables", "0.02736"],
+                ["living planet", "0.01528"],
+                ["business", "0.01145"],
+                ["world in progress", "0.01029"],
+                ["europe", "0.01000"]
+            ]
+        },
+        "kw_english": {
+            "tags": [
+                ["asia", "0.29287"],
+                ["china", "0.12779"],
+                ["environment", "0.12091"],
+                ["india", "0.10586"],
+                ["climate change", "0.10329"],
+                ["us", "0.07696"],
+                ["global ideas", "0.07553"],
+                ["energy", "0.07252"],
+                ["technology", "0.04834"],
+                ["global warming", "0.04194"]
+            ]
+        },
+        "rou_english": {
+            "tags": [
+                ["world", "0.88579"],
+                ["environment", "0.09719"],
+                ["asia", "0.01664"],
+                ["americas", "0.00214"],
+                ["climate change", "0.00206"],
+                ["business", "0.00204"],
+                ["europe", "0.00155"],
+                ["germany", "0.00096"],
+                ["globalization", "0.00082"],
+                ["news", "0.00035"]
+            ]
+        }
+    },
+    "engMainText": "The batteries industry is key to our planet: it has the capacity to save it. Or destroy it. If you achieve the first, then renewable energies - like solar, wind or geothermal energy - will become one day in our main source of energy supply. And to get to that point, we will have to systematically reduce CO2 emissions, that is to say, \" decarbonize \" the world, a fundamental part of that \" decarbonization \" has to do with transport. The \" but \" is that electric cars use lithium batteries and that poses a problem because lithium is alsoa mineral resource that will come to an end. How then to store then without polluting energy and without the cost being exaggerated? There are two elements that could have the answer :in recent years, it's reaching its limit. \" Since I started working in the energy sector, about seven years ago, I've watched a big change. In the manner in which energy is given, he told the BBC Chris Morimoto, who works as a manager at the Centrich British power station. And with that increase we've seen a greater mismatch between supply and demand for energy. \" He added. There is much more renewable energy, the company Oxis Energy, in the United Kingdom, has been investigating the battery market since 2005. His executive director, Huw Hampson-Jones, told the BBC that that problem has to do with the fact that lithium is reaching its limit.\" The batteries of lithium (ions of) are 26 years old in the market and are reaching the maximum of their capacity as technology. \" He assuredthese batteries take a long time to load, they have a limited useful life, they are downloaded fast and they're not too safe. Zinc could be the material that restores lithium in reheated batteries. Indeed, it is already being done in some of the peoples of Asia and Africa. The biotech Patrick Soon-Shiong, President of NantEnergy, a firm based in Arizona, USA, specializing in energy storage, announced last week at the One Planet summit held in New York. On 26 September, the development of a new recarticable pile made of zinc. \" Zinc is the' Holy Grail' of the batteries. \" He stated in an interview published in the United States CNBC television channel. Soon-Shiong highlighted an interesting point: that zinc (it is necessary to operate our dephensive system). It is found in the cells of our body, which can be converted into oxygen, can become a more economical way to store energy, pointed out. The company has already tested it in over 100 villages in Africa and Asia that are using solar panels and batteries made of these materials. \" 200. 000 people on the planet are usingthat system, \" explained the entrepreneur. \" Lithium is toxic, but zinc and air are not, it adds, it is elements of nature, but the idea of doing batteries with zinc was not his. Thomas Edison tried to develop batteries with that material 100 years ago, but he didn't get them to be technologically feasible. \" Now we've solved that problem, \" Soon-Shiong said. More recently, in April this year, researchers from the University of Maryland in the United States developed a water and zinc battery that could be used for future electronic products. NantEnergy says that its zinc and air batteries are and that they managed to achieve two objectives: make them recap and reduce the cost of storing energy a, a figurethat some of the experts in industry consider it essential to hold the system, the first commercially viable in the world, Soon-Shiong's company gets the zinc from Indonesia. In the United States, reserves have reached 5 per cent worldwide. Together, they cover half of all the zinc on the planet. Australia and China are the largest producers of zinc, on the other hand, lithium reserves barely reach a twentieth part of zinc. Materials such as lithium are expensive because they are more scarce. Moreover, extraction and prolonged exposure to lithium pose serious health problems. Zinc and air batteries are not flammable and, according to a report published in it, their remains can be safely eliminated. MIT Technology Review NantEnergy said its immediate aim is to use its product in, which allows for the provision of electrical supplies to small areas. And the company says that these batteries will have other uses of renewable energy. Renewable microns, zinc and air batteries could also serve to boost cars, cars, trains. And even motorcycles, they said Soon-Shiong, who thinks that these plans will come true in 2020. \" This market is huge, but there is an issue in the air. If zinc becomes \" the new lithium, \" will there be enough to withstand global demand? Now you can get notifications from BBC World. Download the new version of our padding and padding so that we won't miss our best content.",
+    "engStorylineId": "1",
+    "engTitle": "How zinc batteries can solve the problem of energy storage.",
+    "feedId": "9352ec5a-aa88-4ca3-b4a6-a3b77406c2af",
+    "feedURL": "/mundo",
+    "highlightItems": [{
+        "highlight": "The batteries industry is key to our planet: it has the capacity to save it. Or destroy it. If you achieve the first, then renewable energies - like solar, wind or geothermal energy - will become one day in our main source of energy supply.",
+        "sentiment": null
+    }, {
+        "highlight": "And to get to that point, we will have to systematically reduce CO2 emissions, that is to say, \" decarbonize \" the world, a fundamental part of that \" decarbonization \" has to do with transport.",
+        "sentiment": null
+    }, {
+        "highlight": "The \" but \" is that electric cars use lithium batteries and that poses a problem because lithium is alsoa mineral resource that will come to an end. How then to store then without polluting energy and without the cost being exaggerated?",
+        "sentiment": null
+    }, {
+        "highlight": "Since I started working in the energy sector, about seven years ago, I've watched a big change.",
+        "sentiment": null
+    }, {
+        "highlight": "In the United States, reserves have reached 5 per cent worldwide.",
+        "sentiment": null
+    }, {
+        "highlight": "Together, they cover half of all the zinc on the planet.",
+        "sentiment": null
+    }, {
+        "highlight": "Moreover, extraction and prolonged exposure to lithium pose serious health problems.",
+        "sentiment": null
+    }, {
+        "highlight": "And the company says that these batteries will have other uses of renewable energy.",
+        "sentiment": null
+    }, {
+        "highlight": "Renewable microns, zinc and air batteries could also serve to boost cars, cars, trains.",
+        "sentiment": null
+    }],
+    "id": "5e87ab17-8a89-4517-85e7-0045be48ff90",
+    "sourceItemIdAtOrigin": "/mundo/noticias-45707019",
+    "sourceItemLangeCodeGuess": "es",
+    "sourceItemMainText": "La industria de las pilas es clave para nuestro planeta: tiene la capacidad de salvarlo... o de destruirlo. Si logra lo primero, entonces las energías renovables -como la solar, la eólica o la geotérmica- se convertirán un día en nuestra principal fuente de suministro energético. Y para llegar a ese punto deberemos reducir sistemáticamente las emisiones de CO2, es decir, . \"descarbonizar\" el mundo Una parte fundamental de esa \"descarbonización\" tiene que ver con el transporte. El \"pero\" está en que los autos eléctricos usan baterías de litio y eso plantea un problema porque el litio también es un recurso mineral que llegará a su fin. ¿Cómo almacenar entonces energía sin contaminar y sin que el coste sea exagerado? Hay dos elementos que podrían tener la respuesta: . el zinc y el oxígeno Las noticias sobre cómo la tecnología de las baterías no han dejado de aflorar en los últimos años. está llegando a su límite \"Desde que comencé a trabajar en el sector energético, hace unos siete años, he observado un gran cambio en la manera en que se proporciona la energía\", le contó a la BBC Chris Morrison, quien trabaja como directivo en la multinacional eléctrica británica Centrica. \". Y con ese aumento hemos visto un mayor desajuste entre el suministro y la demanda de energía\", agregó. Hay mucha más energía renovable La compañía Oxis Energy, en Reino Unido, lleva desde 2005 investigando el mercado de las baterías. Su director ejecutivo, Huw Hampson-Jones, le dijo a la BBC que ese problema tiene que ver con que el litio está llegando a su límite. \"Las pilas de (iones de) litio llevan unos 26 años en el mercado y están alcanzando el máximo de su capacidad como tecnología\", aseguró. Esas baterías tardan mucho tiempo en cargar, tienen una vida útil limitada, se descargan rápido y no son demasiado seguras (¿recuerdan el escándalo del Galaxy Note 7 de Samsung?). El zinc podría ser el material que reemplace al litio en las pilas recargables. De hecho, ya se está haciendo en algunos pueblos de Asia y África. El biotecnólogo Patrick Soon-Shiong, presidente de NantEnergy, una firma con base en Arizona, EE.UU., especializada en el almacenamiento de energía, anunció la semana pasada durante la cumbre One Planet -que se celebró en Nueva York el 26 de septiembre- el desarrollo de una nueva pila recargable hecha de zinc. \"El zinc es el 'santo grial' de las baterías\", declaró en una entrevista que se publicó en el canal de televisión estadounidense CNBC. Soon-Shiong destacó una cuestión interesante: que el zinc(es necesario para que funcione nuestro sistema defensivo). se encuentra en las células de nuestro cuerpo Mezclado con oxígeno, puede convertirse en una forma más económica que el litio de almacenar energía, señaló. La compañía ya lo probó en más de 100 pueblos en África y Asia que están usando paneles solares y baterías hechas de esos materiales. \"200.000 personas en el planeta están usando ese sistema\", explicó el empresario. \"El litio es tóxico, pero el zinc y el aire no;\", añadió. son elementos de la naturaleza Pero la idea de hacer pilas con zinc no fue suya. Thomas Edison trató de desarrollar baterías con ese material hace 100 años, pero no logró que fueran tecnológicamente viables. \"Ahora nosotros hemos solucionado ese problema\", dijo Soon-Shiong. Más recientemente, en abril de este año, unos investigadores de la Universidad de Maryland, en Estados Unidos, desarrollaron una batería basada en agua y zinc que podría ser usada para productos electrónicos en el futuro. NantEnergy dice que sus baterías de zinc y aire son y que lograron a través de ellas dos objetivos: hacerlas recargables y reducir el costo de almacenaje de energía a, una cifra que algunos de los expertos en la industria consideran esencial para que se sostenga el sistema. las primeras comercialmente viables en el mundo La compañía de Soon-Shiong obtiene el zinc de Indonesia. En Estados Unidos las reservas alcanzan el 5% mundial.: juntos abarcan la mitad de todo el zinc del planeta. Australia y China son los mayores productores de zinc En cambio, las reservas de litio apenas alcanzan una vigésima parte de las de zinc. Materiales como el litio son costosos porque son más escasos. Además, la extracción y la exposición prolongada al litio plantean serios problemas para la salud. Las baterías de zinc y aire no son inflamables y, según un reporte publicado en el , sus restos pueden eliminarse de forma segura. MIT Technology Review NantEnergy dijo que su objetivo inmediato es usar su producto en , las cuales permiten proporcionar suministro eléctrico a pequeñas zonas. Y la empresa dice que esas baterías tendrán otros usos más adelante. microrredes renovables Las baterías de zinc y aire también podrían servir para impulsar autos, buses, trenes e incluso motocicletas eléctricas. dijo Soon-Shiong, quien estima que esos planes se harán realidad en 2020. \"Este mercado es enorme\", Pero queda una cuestión en el aire. Si el zinc se convierte en \"el nuevo litio\", ¿habrá suficiente cantidad como para soportar la demanda mundial? Ahora puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.",
+    "sourceItemOriginFeedName": "Otras noticias",
+    "sourceItemTitle": "Cómo las baterías de zinc pueden solucionar el problema del almacenamiento de energía",
+    "summaPlatformProcessingMetadata": {
+        "cacheFieldsInStorylineDone": {
+            "dependencyFields": ["engStorylineId", "engTeaserEntities", "engMainTextEntities", "engTranscriptEntities", "feedId", "contentDetectedLangCode", "sourceItemType"],
+            "dependencyFieldsHash": "ea173fc3-ce76-5116-88e3-c6c6b790191d",
+            "source": "SUMMA-StorylineCache",
+            "status": "final",
+            "updateTime": "2018-10-10T10:10:57.945Z",
+            "valueHash": "66446ec1-7f62-5394-8d89-3cb94ff1f778"
+        },
+        "contentDetectedLangCode": {
+            "dependencyFields": ["sourceItemTeaser", "sourceItemMainText", "sourceItemLangeCodeGuess"],
+            "dependencyFieldsHash": "0a785b38-de7f-5531-8881-ed63740ebe2c",
+            "source": "SUMMA-LANG_DETECT",
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.882Z",
+            "valueHash": "da7c1f63-aa3b-53e4-981a-4bde94c3ff54"
+        },
+        "customMetadata": {
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "a3359e4c-1f7c-5c69-8204-b8a6e8507799"
+        },
+        "engDetectedTopics": {
+            "dependencyFields": ["sourceItemTitle", "engTitle", "sourceItemTeaser", "engTeaser", "sourceItemMainText", "engMainText", "sourceItemVideoURL", "engTranscript"],
+            "dependencyFieldsHash": "77be282e-fca6-5d40-86e1-eaa7613c11f3",
+            "source": "SUMMA-DeepTagging-Wrapper",
+            "status": "final",
+            "updateTime": "2018-10-10T10:10:54.680Z",
+            "valueHash": "e8b69f75-6abd-52d3-aad7-fae883f33a01"
+        },
+        "engMainText": {
+            "dependencyFields": ["sourceItemMainText", "contentDetectedLangCode"],
+            "dependencyFieldsHash": "ee059bef-cebf-5c76-b8d5-ced86a935d99",
+            "source": "SUMMA-MT-Wrapper",
+            "status": "final",
+            "updateTime": "2018-10-10T10:10:51.630Z",
+            "valueHash": "04b6e401-4b6e-52d8-b393-ed5496dc02b5"
+        },
+        "engMainTextEntities": {
+            "dependencyFields": ["engMainText", "engTitle"],
+            "dependencyFieldsHash": "b4c4ff11-244d-5262-8d78-32c16a082530",
+            "error": "Traceback (most recent call last):\n  File \"/opt/app/rabbitmq.py\", line 100, in on_message\n    result_data = await task.process_message(task_data, loop=loop, send_reply=send_reply, metadata=task_metadata, reject=message.reject, **kwargs)\n  File \"/opt/app/task.py\", line 83, in process_message\n    raise Exception('entity tagging request response %s: %s' % (str(resp.status), await resp.text()))\nException: entity tagging request response 500: {\"error\":{\"message\":\"Disambiguate failed\"}}\n",
+            "source": "Priberam-EntityTagging-Wrapper",
+            "status": "error",
+            "updateTime": "2018-10-10T10:10:57.889Z",
+            "valueHash": "d6f33069-6717-52a6-acf9-fbeb972205f1"
+        },
+        "engStorylineId": {
+            "dependencyFields": ["engTitle", "sourceItemType", "feedURL", "sourceItemTeaser", "engTeaser", "sourceItemMainText", "engMainText", "sourceItemVideoURL", "engTranscript", "timeAdded"],
+            "dependencyFieldsHash": "7d1d3556-2276-5b1c-b3df-0e2380aadb67",
+            "source": "Priberam-StorylineDetection-Wrapper",
+            "status": "final",
+            "updateTime": "2018-10-10T10:10:51.762Z",
+            "valueHash": "76b65261-0a8a-51ea-b058-d532fd9b5f76"
+        },
+        "engTitle": {
+            "dependencyFields": ["sourceItemTitle", "contentDetectedLangCode"],
+            "dependencyFieldsHash": "b578bb31-52a5-5a6e-94e9-405eac224eb5",
+            "source": "SUMMA-MT-Wrapper",
+            "status": "final",
+            "updateTime": "2018-10-10T10:10:18.577Z",
+            "valueHash": "35260f3d-a896-52ed-9e4e-97028e35cab2"
+        },
+        "feedId": {
+            "source": "internal",
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "6b646584-6cc9-55f5-9343-ddaa1c6e7031"
+        },
+        "feedURL": {
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "1e8f52f3-ec1b-5798-a335-cd39703ca4c8"
+        },
+        "highlightItems": {
+            "dependencyFields": ["engTitle", "sourceItemTeaser", "engTeaser", "sourceItemMainText", "engMainText", "sourceItemVideoURL", "engTranscript"],
+            "dependencyFieldsHash": "d8f17efc-37a9-5cce-860d-9a2c8276418f",
+            "source": "Priberam-NewsItemSummary-Wrapper",
+            "status": "final",
+            "updateTime": "2018-10-10T10:10:51.729Z",
+            "valueHash": "2ecbbd60-823e-514d-a0d0-b0e0f000f4f4"
+        },
+        "sourceItemIdAtOrigin": {
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "14312fdf-5f18-576c-926f-3ee6c24ea76a"
+        },
+        "sourceItemLangeCodeGuess": {
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "da7c1f63-aa3b-53e4-981a-4bde94c3ff54"
+        },
+        "sourceItemMainText": {
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "36585ced-2d9d-5a93-9abc-f7203bc04dd1"
+        },
+        "sourceItemOriginFeedName": {
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "7449dd3a-9416-5465-923d-3d64b19baddc"
+        },
+        "sourceItemTitle": {
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "ce4d7b1e-1ebd-5847-a625-d0c2aabeecf7"
+        },
+        "timeAdded": {
+            "source": "internal",
+            "status": "final",
+            "updateTime": "2018-10-10T10:09:04.837Z",
+            "valueHash": "6b646584-6cc9-55f5-9343-ddaa1c6e7031"
+        }
+    },
+    "timeAdded": "2018-10-10T10:09:04.837Z"
+}
