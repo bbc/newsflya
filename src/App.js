@@ -46,20 +46,20 @@ class App extends Component {
 
   wrapEntities(sentence) {
     let lsentance = sentence.toLowerCase();
-    const entities = this.state.entities.results.map(r => r.surface_form);
+    const entities = [... new Set(this.state.entities.results.reduce((acc, r) => [...acc, ...r.surface_form.split(' ')], []))];
     console.log(entities);
 
     entities.forEach((entity) => {
-          let lentitiy = entity.toLowerCase(),
+          const lentitiy = entity.toLowerCase(),
             entityLen = entity.length,
-            sentenceEntityLoc = lsentance.indexOf(lentitiy);
+            sentenceEntityLoc = lsentance.indexOf(` ${lentitiy}`);
         if (sentenceEntityLoc >= 0) {
           console.log(sentence, entity, sentenceEntityLoc);
             sentence = sentence.substring(0, sentenceEntityLoc)
-                + `<a href="http://www.wikipedia.com/wiki/${entity}">`
+                + ` <a href="http://www.wikipedia.com/wiki/${entity}" title="http://www.wikipedia.com/wiki/${entity}">`
                 + entity
                 + '</a>'
-                + sentence.substring(sentenceEntityLoc + entityLen, sentence.length);
+                + sentence.substring(sentenceEntityLoc + entityLen + 1, sentence.length);
         }
         lsentance = sentence.toLowerCase();
     });
