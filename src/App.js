@@ -31,9 +31,10 @@ class App extends Component {
     this.state = {
       article: null,
       entities: null,
+      display: false,
     };
 
-    // this.showBack = this.showBack.bind(this);
+    this.toggleDisplay = this.toggleDisplay.bind(this);
   }
 
   async componentDidMount() {
@@ -42,6 +43,11 @@ class App extends Component {
     const entities = await axios.get(ENTITIES);
     console.log(entities.data);
     this.setState({ article: data, entities: entities.data });
+  }
+
+  toggleDisplay() {
+    console.log(',...')
+    this.setState({ display: true });
   }
 
   wrapEntities(sentence) {
@@ -118,10 +124,13 @@ class App extends Component {
         <nav>
           <fieldset>
             <legend>Topics</legend>
-            <select>
-              { TOPICS.map(t => (<option>{t}</option>)) }
+            <select onInput={() => this.toggleDisplay()}>
+              <option selected>choose topic:</option>
+              { TOPICS.map(t => (<option value={t}>{t}</option>)) }
             </select>
           </fieldset>
+        </nav>
+        <nav style={{ display: this.state.display ? 'block' : 'none' }}>
           <div>
             <ol>
               <li><a>Article 1</a></li>
@@ -132,14 +141,14 @@ class App extends Component {
             </ol>
           </div>
         </nav>
-        <article>
+        <article style={{ display: this.state.display ? 'block' : 'none' }}>
         <h3>{ this.state.article ? this.state.article.engTitle : null }</h3>
 
         { this.renderParas(this.getSentencesPairs()) }
 
         </article>
 
-        <div>
+        <div style={{ display: this.state.display ? 'block' : 'none' }}>
           <fieldset>
           <legend>More of the same topic</legend>
           <ol>
@@ -152,7 +161,7 @@ class App extends Component {
           </fieldset>
         </div>
 
-        <div>
+        <div style={{ display: this.state.display ? 'block' : 'none' }}>
           <fieldset>
           <legend>Interesting articles</legend>
           <ol>
