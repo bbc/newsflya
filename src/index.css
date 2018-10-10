@@ -16,9 +16,10 @@ code {
     monospace;
 }
 
- p {
+p {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 18px;
+  cursor: pointer;
 }
 
 a {
