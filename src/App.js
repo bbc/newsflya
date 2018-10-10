@@ -23,6 +23,21 @@ const INTERESTING = [
   { url: 'https://www.bbc.com/mundo/noticias-45797953', title: 'Por qué el cambio climático también afecta negativamente la salud mental' },
 ];
 
+const MORE = [
+    ['Why climate change also has a negative impact on mental health.',
+    'http://bbc.co.uk//mundo/noticias-45797953',
+    70, 65],
+     ['An earthquake struck Haiti and causes at least 11 deaths.',
+      'http://bbc.co.uk//mundo/noticias-america-latina-45774863',
+      50,
+      40],
+     ['How zinc batteries can solve the problem of energy storage.',
+      'http://bbc.co.uk//mundo/noticias-45707019',
+      55,
+      57],
+    ['Climate change: 5 things you can do to avoid global warming', 'https://www.bbc.com/mundo/noticias-45792863', 65, 70],
+    ['The "glacial rebound" and other 2 phenomena that cause the Earth to wobble while turning', 'https://www.bbc.com/mundo/noticias-45647849', 80, 72],
+];
 
 class App extends Component {
   constructor(props) {
@@ -133,16 +148,12 @@ class App extends Component {
         <nav style={{ display: this.state.display ? 'block' : 'none' }}>
           <div>
             <ol>
-              <li><a>Article 1</a></li>
-              <li><a>Article 2</a></li>
-              <li><a>Article 3</a></li>
-              <li><a>Article 4</a></li>
-              <li><a>Article 5</a></li>
+              {MORE.map(i => (<li><a href={i[1]}>{i[0]}</a> (es: {i[2]}, en: {i[3]})</li>))}
             </ol>
           </div>
         </nav>
         <article style={{ display: this.state.display ? 'block' : 'none' }}>
-        <h3>{ this.state.article ? this.state.article.engTitle : null }</h3>
+        <h2>{ this.state.article ? this.state.article.engTitle : null }</h2>
 
         { this.renderParas(this.getSentencesPairs()) }
 
@@ -152,11 +163,7 @@ class App extends Component {
           <fieldset>
           <legend>More of the same topic</legend>
           <ol>
-            <li><a>Article 1</a></li>
-            <li><a>Article 2</a></li>
-            <li><a>Article 3</a></li>
-            <li><a>Article 4</a></li>
-            <li><a>Article 5</a></li>
+            {MORE.map(i => (<li><a href={i[1]}>{i[0]}</a> (es: {i[2]}, en: {i[3]})</li>))}
           </ol>
           </fieldset>
         </div>

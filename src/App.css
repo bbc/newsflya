@@ -4,7 +4,7 @@
   color: darkgray;
   width: 80%;
   margin: 2em auto 1em auto;
-  padding: 0 2em 2em 2em;
+  padding: 0 2em 4em 2em;
 }
 
 .App-logo {
@@ -32,4 +32,29 @@
   margin: auto;
   text-align: left;
   color: black;
+}
+
+h3, h2, h1 {
+  margin-top: 2em;
+  color: #333333;
+}
+
+fieldset {
+  border-color: #009fe3;
+  border-style: solid;
+}
+
+legend {
+  font-weight: bold;
+  padding: 0 1em;
+  color: #333333;
+}
+
+select {
+  font-size: 18px;
+  margin: .5em 0;
+}
+
+.App > div:last-child {
+  margin-top: 2em;
 }
