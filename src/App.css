@@ -37,6 +37,7 @@
 h3, h2, h1 {
   margin-top: 2em;
   color: #333333;
+  padding: 0 18px;
 }
 
 fieldset {
@@ -52,7 +53,7 @@ legend {
 
 select {
   font-size: 18px;
-  margin: .5em 0;
+  margin: .5em .7em;
 }
 
 .App > div:last-child {
