@@ -11,6 +11,9 @@ import './App.css';
 
 
 const ARTICLE = './article.json';
+const TOPICS = ["climate change", "energy", "science", "arts", "travel", "gaming", "pop music","fashion", "history"];
+
+const ENTITIES = './mango.json';
 
 const INTERESTING = [
   { url: 'https://www.bbc.com/mundo/noticias-45771979', title: 'Una obra de Banksy se autodestruye' },
@@ -20,12 +23,14 @@ const INTERESTING = [
   { url: 'https://www.bbc.com/mundo/noticias-45797953', title: 'Por qué el cambio climático también afecta negativamente la salud mental' },
 ];
 
+
 class App extends Component {
   constructor(props) {
     super(props);
 
     this.state = {
       article: null,
+      entities: null,
     };
 
     // this.showBack = this.showBack.bind(this);
@@ -34,7 +39,31 @@ class App extends Component {
   async componentDidMount() {
     const { data } = await axios.get(ARTICLE);
     console.log(data);
-    this.setState({ article: data });
+    const entities = await axios.get(ENTITIES);
+    console.log(entities.data);
+    this.setState({ article: data, entities: entities.data });
+  }
+
+  wrapEntities(sentence) {
+    let lsentance = sentence.toLowerCase();
+    const entities = this.state.entities.results.map(r => r.surface_form);
+    console.log(entities);
+
+    entities.forEach((entity) => {
+          let lentitiy = entity.toLowerCase(),
+            entityLen = entity.length,
+            sentenceEntityLoc = lsentance.indexOf(lentitiy);
+        if (sentenceEntityLoc >= 0) {
+          console.log(sentence, entity, sentenceEntityLoc);
+            sentence = sentence.substring(0, sentenceEntityLoc)
+                + `<a href="http://www.wikipedia.com/wiki/${entity}">`
+                + entity
+                + '</a>'
+                + sentence.substring(sentenceEntityLoc + entityLen, sentence.length);
+        }
+        lsentance = sentence.toLowerCase();
+    });
+    return sentence;
   }
 
   getSentencesPairs() {
@@ -68,8 +97,7 @@ class App extends Component {
         backBackgroundColor="lightyellow"
       >
         <div ref="flipper">
-          <p>
-            { p[0] }
+          <p dangerouslySetInnerHTML={{__html: this.wrapEntities(p[0])}}>
           </p>
         </div>
         <div ref="flipper">
@@ -91,7 +119,7 @@ class App extends Component {
           <fieldset>
             <legend>Topics</legend>
             <select>
-              <option selected>Topic 1</option>
+              { TOPICS.map(t => (<option>{t}</option>)) }
             </select>
           </fieldset>
           <div>
@@ -105,7 +133,7 @@ class App extends Component {
           </div>
         </nav>
         <article>
-        <h3>Lorem Ipsum</h3>
+        <h3>{ this.state.article ? this.state.article.engTitle : null }</h3>
 
         { this.renderParas(this.getSentencesPairs()) }
 

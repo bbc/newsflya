@@ -1,0 +1,686 @@
+{
+    "lang": "en",
+    "source": {
+        "lang": "en",
+        "application": "mango-tagger:0.7.3",
+        "model": "2018-01-07 12:31:35",
+        "index": "2018-01-10 16:47:19"
+    },
+    "results": [{
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q899079"],
+        "score": 0.73337379911878386,
+        "relevance": 0.0,
+        "surface_form": "lithium batteries",
+        "uri": "http://dbpedia.org/resource/Lithium_battery",
+        "types": [],
+        "label": "Lithium batteries"
+    }, {
+        "count": 3,
+        "same_as": ["http://wikidata.org/entity/Q12705", "http://www.bbc.co.uk/things/7a198bf4-40e2-4131-b2e5-8027f5497bf1"],
+        "score": 0.7094931625807952,
+        "relevance": 0.0,
+        "surface_form": "renewable energy",
+        "uri": "http://dbpedia.org/resource/Renewable_energy",
+        "types": [],
+        "label": "Renewable energy"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q127993", "http://www.bbc.co.uk/things/2d552a2c-43fe-45fc-a4d6-7ad6135234f1"],
+        "score": 0.69751974099369285,
+        "relevance": 0.23076923076923078,
+        "surface_form": "geothermal energy",
+        "uri": "http://dbpedia.org/resource/Geothermal_energy",
+        "types": [],
+        "label": "Geothermal energy"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q4468919"],
+        "score": 0.68399595710819217,
+        "relevance": 0.23076923076923078,
+        "surface_form": "CO2 emissions",
+        "uri": "http://dbpedia.org/resource/Carbon_dioxide_in_Earth's_atmosphere",
+        "types": [],
+        "label": "CO2 emissions"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q36496"],
+        "score": 0.68297548123192087,
+        "relevance": 0.07692307692307693,
+        "surface_form": "ions",
+        "uri": "http://dbpedia.org/resource/Ion",
+        "types": [],
+        "label": "Ions"
+    }, {
+        "count": 4,
+        "same_as": ["http://wikidata.org/entity/Q206799"],
+        "score": 0.6826041701166865,
+        "relevance": 0.23076923076923078,
+        "surface_form": "energy",
+        "uri": "http://dbpedia.org/resource/Electrical_energy",
+        "types": [],
+        "label": "Energy (electrical)"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q774583"],
+        "score": 0.67844209937670286,
+        "relevance": 0.23076923076923078,
+        "surface_form": "solar panels",
+        "uri": "http://dbpedia.org/resource/Solar_panel",
+        "types": [],
+        "label": "Solar panels"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q837718", "http://www.bbc.co.uk/things/46cda78a-7a35-45a4-bfd9-c1d8383ca6c1"],
+        "score": 0.67741025356174589,
+        "relevance": 0.07692307692307693,
+        "surface_form": "energy storage",
+        "uri": "http://dbpedia.org/resource/Energy_storage",
+        "types": [],
+        "label": "Energy storage"
+    }, {
+        "count": 12,
+        "same_as": ["http://wikidata.org/entity/Q267298", "http://www.bbc.co.uk/things/6a3eb990-43df-4313-abe5-458723816303"],
+        "score": 0.67737839499072905,
+        "relevance": 0.46153846153846156,
+        "surface_form": "batteries",
+        "uri": "http://dbpedia.org/resource/Battery_(electricity)",
+        "types": [],
+        "label": "Batteries"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q568", "http://www.bbc.co.uk/things/cf577aa6-0157-4034-871f-57c979dbc7ba"],
+        "score": 0.67668063951151325,
+        "relevance": 0.3076923076923077,
+        "surface_form": "Lithium",
+        "uri": "http://dbpedia.org/resource/Lithium",
+        "types": [],
+        "label": "Lithium"
+    }, {
+        "count": 3,
+        "same_as": ["http://wikidata.org/entity/Q758"],
+        "score": 0.67536343623929795,
+        "relevance": 0.15384615384615385,
+        "surface_form": "Zinc",
+        "uri": "http://dbpedia.org/resource/Zinc",
+        "types": [],
+        "label": "Zinc"
+    }, {
+        "count": 8,
+        "same_as": ["http://wikidata.org/entity/Q568", "http://www.bbc.co.uk/things/cf577aa6-0157-4034-871f-57c979dbc7ba"],
+        "score": 0.67069249699009958,
+        "relevance": 0.3076923076923077,
+        "surface_form": "lithium",
+        "uri": "http://dbpedia.org/resource/Lithium",
+        "types": [],
+        "label": "Lithium"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q1138571"],
+        "score": 0.66544662262836063,
+        "relevance": 0.07692307692307693,
+        "surface_form": "Renewable",
+        "uri": "http://dbpedia.org/resource/Renewable_resource",
+        "types": [],
+        "label": "Renewable"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q629", "http://www.bbc.co.uk/things/af72aeb6-3a04-41fb-8d4b-a506baf5efa6"],
+        "score": 0.65356884057420128,
+        "relevance": 0.15384615384615385,
+        "surface_form": "oxygen",
+        "uri": "http://dbpedia.org/resource/Oxygen",
+        "types": [],
+        "label": "Oxygen"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q28765"],
+        "score": 0.64887912575139239,
+        "relevance": 0.23076923076923078,
+        "surface_form": "zinc battery",
+        "uri": "http://dbpedia.org/resource/Zinc%E2%80%93carbon_battery",
+        "types": [],
+        "label": "Zinc battery"
+    }, {
+        "count": 11,
+        "same_as": ["http://wikidata.org/entity/Q758"],
+        "score": 0.64499716639794258,
+        "relevance": 0.15384615384615385,
+        "surface_form": "zinc",
+        "uri": "http://dbpedia.org/resource/Zinc",
+        "types": [],
+        "label": "Zinc"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q837718", "http://www.bbc.co.uk/things/46cda78a-7a35-45a4-bfd9-c1d8383ca6c1"],
+        "score": 0.61651724229646732,
+        "relevance": 0.07692307692307693,
+        "surface_form": "store energy",
+        "uri": "http://dbpedia.org/resource/Energy_storage",
+        "types": [],
+        "label": "Store energy"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q11379"],
+        "score": 0.61178666020618166,
+        "relevance": 0.0,
+        "surface_form": "Energy",
+        "uri": "http://dbpedia.org/resource/Energy",
+        "types": [],
+        "label": "Energy"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q12725", "http://www.bbc.co.uk/things/b203c368-fba8-4081-9729-547dd2736d8e"],
+        "score": 0.60382452560110877,
+        "relevance": 0.0,
+        "surface_form": "electrical supplies",
+        "uri": "http://dbpedia.org/resource/Electricity",
+        "types": [],
+        "label": "Electrical supplies"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q7108", "http://www.bbc.co.uk/things/328de144-f774-40cd-94e0-43c9bbfcbeb9"],
+        "score": 0.58120895501653935,
+        "relevance": 0.23076923076923078,
+        "surface_form": "biotech",
+        "uri": "http://dbpedia.org/resource/Biotechnology",
+        "types": [],
+        "label": "Biotech"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q23581943"],
+        "score": 0.57840408323550996,
+        "relevance": 0.07692307692307693,
+        "surface_form": "mineral resource",
+        "uri": "http://dbpedia.org/resource/Mineral_resource_estimation",
+        "types": [],
+        "label": "Mineral resource"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q2151621", "http://www.bbc.co.uk/things/fe536195-d9a5-40ff-89c4-f216213cfd9e"],
+        "score": 0.57761783169852476,
+        "relevance": 0.15384615384615385,
+        "surface_form": "energy sector",
+        "uri": "http://dbpedia.org/resource/Energy_industry",
+        "types": [],
+        "label": "Energy sector"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q283", "http://www.bbc.co.uk/things/b214dc4c-d30e-4ef7-9da3-33858396aa2b"],
+        "score": 0.57753414120424384,
+        "relevance": 0.0,
+        "surface_form": "water",
+        "uri": "http://dbpedia.org/resource/Water",
+        "types": [],
+        "label": "Water"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q58734", "http://www.bbc.co.uk/things/5ae1f167-989d-425a-9232-3de98c086575"],
+        "score": 0.57462224795391936,
+        "relevance": 0.23076923076923078,
+        "surface_form": "polluting",
+        "uri": "http://dbpedia.org/resource/Pollution",
+        "types": [],
+        "label": "Polluting"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q193692", "http://www.bbc.co.uk/things/0d0fd24c-ebc2-4051-a45c-bcdfbb98bbf1"],
+        "score": 0.57160794236612134,
+        "relevance": 0.23076923076923078,
+        "surface_form": "electric cars",
+        "uri": "http://dbpedia.org/resource/Electric_car",
+        "types": [],
+        "label": "Electric cars"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q25584060"],
+        "score": 0.57126614173009926,
+        "relevance": 0.07692307692307693,
+        "surface_form": "source of energy",
+        "uri": "http://dbpedia.org/resource/Energy_development",
+        "types": [],
+        "label": "Source of energy"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q3267905"],
+        "score": 0.56526714613208284,
+        "relevance": 0.3076923076923077,
+        "surface_form": "decarbonization",
+        "uri": "http://dbpedia.org/resource/Low-carbon_economy",
+        "types": [],
+        "label": "Decarbonization"
+    }, {
+        "count": 2,
+        "same_as": ["http://wikidata.org/entity/Q8148"],
+        "score": 0.55237434234909788,
+        "relevance": 0.38461538461538464,
+        "surface_form": "industry",
+        "uri": "http://dbpedia.org/resource/Industry",
+        "types": [],
+        "label": "IndustrY"
+    }, {
+        "count": 3,
+        "same_as": ["http://wikidata.org/entity/Q634", "http://www.bbc.co.uk/things/a7305db0-52dc-43d1-940d-5e28ecdf04cb"],
+        "score": 0.53556370561122613,
+        "relevance": 0.23076923076923078,
+        "surface_form": "planet",
+        "uri": "http://dbpedia.org/resource/Planet",
+        "types": [],
+        "label": "Planet"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q175821"],
+        "score": 0.53227543134633404,
+        "relevance": 0.15384615384615385,
+        "surface_form": "microns",
+        "uri": "http://dbpedia.org/resource/Micrometre",
+        "types": [],
+        "label": "Microns"
+    }, {
+        "count": 2,
+        "same_as": ["http://wikidata.org/entity/Q9531", "http://www.bbc.co.uk/things/25844b6e-80b0-4de9-8ea0-7a35e7d4086f"],
+        "score": 0.52718170558787136,
+        "relevance": 0.15384615384615385,
+        "surface_form": "BBC",
+        "uri": "http://dbpedia.org/resource/BBC",
+        "types": ["http://schema.org/Organization", "http://dbpedia.org/ontology/Agent", "http://dbpedia.org/ontology/Company", "http://dbpedia.org/ontology/Organisation"],
+        "label": "Bbc"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q7590", "http://www.bbc.co.uk/things/d5d64ac6-fffe-4ae1-9491-38bcadac2563"],
+        "score": 0.52061886763046417,
+        "relevance": 0.07692307692307693,
+        "surface_form": "transport",
+        "uri": "http://dbpedia.org/resource/Transport",
+        "types": [],
+        "label": "TransporT"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q159719"],
+        "score": 0.52043553764327299,
+        "relevance": 0.0,
+        "surface_form": "power station",
+        "uri": "http://dbpedia.org/resource/Power_station",
+        "types": [],
+        "label": "Power station"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q2424752"],
+        "score": 0.51949128951319956,
+        "relevance": 0.23076923076923078,
+        "surface_form": "product",
+        "uri": "http://dbpedia.org/resource/Product_(business)",
+        "types": [],
+        "label": "Product (business)"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q1023912"],
+        "score": 0.51812094807571496,
+        "relevance": 0.07692307692307693,
+        "surface_form": "CNBC",
+        "uri": "http://dbpedia.org/resource/CNBC",
+        "types": [],
+        "label": "CNBC"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q3908516", "http://www.bbc.co.uk/things/41d87885-664f-4d92-931e-470b8fd7b16b"],
+        "score": 0.51777126462860057,
+        "relevance": 0.3076923076923077,
+        "surface_form": "entrepreneur",
+        "uri": "http://dbpedia.org/resource/Entrepreneurship",
+        "types": [],
+        "label": "Entrepreneur"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q148", "http://www.bbc.co.uk/things/6892384e-1966-4c03-9ce3-f694a8f9f69e"],
+        "score": 0.51727628908374101,
+        "relevance": 0.15384615384615385,
+        "surface_form": "China",
+        "uri": "http://dbpedia.org/resource/China",
+        "types": ["http://dbpedia.org/ontology/PopulatedPlace", "http://schema.org/Place", "http://schema.org/Country", "http://dbpedia.org/ontology/Country", "http://dbpedia.org/ontology/Place"],
+        "label": "China"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q48", "http://www.bbc.co.uk/things/ba90754a-9033-4e9c-990b-d1139e5070a3"],
+        "score": 0.50805318529510313,
+        "relevance": 0.07692307692307693,
+        "surface_form": "Asia",
+        "uri": "http://dbpedia.org/resource/Asia",
+        "types": ["http://dbpedia.org/ontology/PopulatedPlace", "http://schema.org/Place", "http://dbpedia.org/ontology/Continent", "http://schema.org/Continent", "http://dbpedia.org/ontology/Place"],
+        "label": "Asia"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q8743", "http://www.bbc.co.uk/things/8245dba9-34c8-45df-86fc-10b95a16c9dd", "http://musicbrainz.org/artist/7ab467a1-d15b-41ea-a4d9-433d7ff64e9d"],
+        "score": 0.50427560537485316,
+        "relevance": 0.23076923076923078,
+        "surface_form": "Thomas Edison",
+        "uri": "http://dbpedia.org/resource/Thomas_Edison",
+        "types": ["http://dbpedia.org/ontology/Agent", "http://schema.org/Person", "http://dbpedia.org/ontology/Person"],
+        "label": "Thomas Edison"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q252"],
+        "score": 0.49649041687734885,
+        "relevance": 0.3076923076923077,
+        "surface_form": "Indonesia",
+        "uri": "http://dbpedia.org/resource/Indonesia",
+        "types": ["http://dbpedia.org/ontology/PopulatedPlace", "http://schema.org/Place", "http://schema.org/Country", "http://dbpedia.org/ontology/Country", "http://dbpedia.org/ontology/Place"],
+        "label": "Indonesia"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q525", "http://www.bbc.co.uk/things/a09a109d-9280-4080-825e-44069b9d3247"],
+        "score": 0.49470988512138492,
+        "relevance": 0.15384615384615385,
+        "surface_form": "solar",
+        "uri": "http://dbpedia.org/resource/Sun",
+        "types": [],
+        "label": "Solar"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q34493", "http://www.bbc.co.uk/things/05ec165d-2118-4664-b6c1-80087107afc0"],
+        "score": 0.49404879270433044,
+        "relevance": 0.15384615384615385,
+        "surface_form": "motorcycles",
+        "uri": "http://dbpedia.org/resource/Motorcycle",
+        "types": [],
+        "label": "Motorcycles"
+    }, {
+        "count": 2,
+        "same_as": ["http://wikidata.org/entity/Q15", "http://www.bbc.co.uk/things/d2c2ba68-f9ad-4185-a6d1-7f6437256735"],
+        "score": 0.49055816762653137,
+        "relevance": 0.15384615384615385,
+        "surface_form": "Africa",
+        "uri": "http://dbpedia.org/resource/Africa",
+        "types": ["http://dbpedia.org/ontology/PopulatedPlace", "http://schema.org/Place", "http://dbpedia.org/ontology/Continent", "http://schema.org/Continent", "http://dbpedia.org/ontology/Place"],
+        "label": "AfricA"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q408", "http://www.bbc.co.uk/things/61e63af6-03e6-4329-aede-21ec4992a675"],
+        "score": 0.48619708047111398,
+        "relevance": 0.15384615384615385,
+        "surface_form": "Australia",
+        "uri": "http://dbpedia.org/resource/Australia",
+        "types": ["http://dbpedia.org/ontology/Place", "http://dbpedia.org/ontology/PopulatedPlace", "http://schema.org/Place", "http://schema.org/Country", "http://dbpedia.org/ontology/Country"],
+        "label": "Australia"
+    }, {
+        "count": 3,
+        "same_as": ["http://wikidata.org/entity/Q30", "http://www.bbc.co.uk/things/82857f8e-8134-462a-bb32-b7b14f4eab75"],
+        "score": 0.48491856277499634,
+        "relevance": 0.07692307692307693,
+        "surface_form": "United States",
+        "uri": "http://dbpedia.org/resource/United_States",
+        "types": ["http://schema.org/Place", "http://schema.org/Country", "http://dbpedia.org/ontology/Country", "http://dbpedia.org/ontology/Place", "http://dbpedia.org/ontology/PopulatedPlace"],
+        "label": "United states"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q60", "http://www.bbc.co.uk/things/97b1cae0-16a8-49f8-bbe1-605669ea745e"],
+        "score": 0.47407952148687482,
+        "relevance": 0.3076923076923077,
+        "surface_form": "New York",
+        "uri": "http://dbpedia.org/resource/New_York_City",
+        "types": ["http://dbpedia.org/ontology/Place", "http://schema.org/City", "http://dbpedia.org/ontology/Settlement", "http://dbpedia.org/ontology/PopulatedPlace", "http://schema.org/Place", "http://dbpedia.org/ontology/City"],
+        "label": "New York (city)"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q816", "http://www.bbc.co.uk/things/c9805c67-ff2b-4829-aaac-21784fb85d23"],
+        "score": 0.47278112613969825,
+        "relevance": 0.07692307692307693,
+        "surface_form": "Arizona",
+        "uri": "http://dbpedia.org/resource/Arizona",
+        "types": ["http://dbpedia.org/ontology/Region", "http://schema.org/AdministrativeArea", "http://dbpedia.org/ontology/AdministrativeRegion", "http://dbpedia.org/ontology/PopulatedPlace", "http://schema.org/Place", "http://dbpedia.org/ontology/Place"],
+        "label": "Arizona"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q870"],
+        "score": 0.47233932604238482,
+        "relevance": 0.15384615384615385,
+        "surface_form": "trains",
+        "uri": "http://dbpedia.org/resource/Train",
+        "types": [],
+        "label": "Trains"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q634", "http://www.bbc.co.uk/things/a7305db0-52dc-43d1-940d-5e28ecdf04cb"],
+        "score": 0.47191239432718968,
+        "relevance": 0.23076923076923078,
+        "surface_form": "Planet",
+        "uri": "http://dbpedia.org/resource/Planet",
+        "types": [],
+        "label": "Planet"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q2001305"],
+        "score": 0.46915754724401171,
+        "relevance": 0.0,
+        "surface_form": "television channel",
+        "uri": "http://dbpedia.org/resource/Television_channel",
+        "types": [],
+        "label": "Television channel"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q11016"],
+        "score": 0.46618378617204237,
+        "relevance": 0.0,
+        "surface_form": "technology",
+        "uri": "http://dbpedia.org/resource/Technology",
+        "types": [],
+        "label": "Technology"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q796078"],
+        "score": 0.46311345615617494,
+        "relevance": 0.15384615384615385,
+        "surface_form": "MIT Technology Review",
+        "uri": "http://dbpedia.org/resource/MIT_Technology_Review",
+        "types": ["http://dbpedia.org/ontology/Work", "http://dbpedia.org/ontology/WrittenWork", "http://dbpedia.org/ontology/Magazine", "http://dbpedia.org/ontology/PeriodicalLiterature"],
+        "label": "MIT Technology Review"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q7126717"],
+        "score": 0.46198281972759203,
+        "relevance": 0.0,
+        "surface_form": "downloaded",
+        "uri": "http://dbpedia.org/resource/Download",
+        "types": [],
+        "label": "Downloaded"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q273005"],
+        "score": 0.45992073065525907,
+        "relevance": 0.07692307692307693,
+        "surface_form": "economical",
+        "uri": "http://dbpedia.org/resource/Economic_system",
+        "types": [],
+        "label": "Economical"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q145", "http://www.bbc.co.uk/things/2e91364c-5c77-4660-b76e-d76202785e64"],
+        "score": 0.45868637092564657,
+        "relevance": 0.38461538461538464,
+        "surface_form": "United Kingdom",
+        "uri": "http://dbpedia.org/resource/United_Kingdom",
+        "types": ["http://schema.org/Place", "http://schema.org/Country", "http://dbpedia.org/ontology/Country", "http://dbpedia.org/ontology/Place", "http://dbpedia.org/ontology/PopulatedPlace"],
+        "label": "United Kingdom"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q162808", "http://www.bbc.co.uk/things/a74b9c9b-483e-44d8-be66-59eef008524d"],
+        "score": 0.45851296748814008,
+        "relevance": 0.0,
+        "surface_form": "Holy Grail",
+        "uri": "http://dbpedia.org/resource/Holy_Grail",
+        "types": [],
+        "label": "Holy Grail"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q208491"],
+        "score": 0.4549919333708865,
+        "relevance": 0.23076923076923078,
+        "surface_form": "BBC World",
+        "uri": "http://dbpedia.org/resource/BBC_World_News",
+        "types": [],
+        "label": "Bbc world"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q1078867"],
+        "score": 0.45174610051539599,
+        "relevance": 0.23076923076923078,
+        "surface_form": "nature",
+        "uri": "http://dbpedia.org/resource/Nature_(philosophy)",
+        "types": [],
+        "label": "Nature (philosophy)"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q7147677"],
+        "score": 0.45071256931441361,
+        "relevance": 0.15384615384615385,
+        "surface_form": "Patrick Soon-Shiong",
+        "uri": "http://dbpedia.org/resource/Patrick_Soon-Shiong",
+        "types": ["http://dbpedia.org/ontology/Agent", "http://schema.org/Person", "http://dbpedia.org/ontology/Person"],
+        "label": "Patrick Soon-Shiong"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q267936"],
+        "score": 0.4501256736913084,
+        "relevance": 0.07692307692307693,
+        "surface_form": "executive director",
+        "uri": "http://dbpedia.org/resource/Executive_director",
+        "types": [],
+        "label": "Executive director"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q7126717"],
+        "score": 0.43852291399190857,
+        "relevance": 0.0,
+        "surface_form": "Download",
+        "uri": "http://dbpedia.org/resource/Download",
+        "types": [],
+        "label": "Download"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q18206530"],
+        "score": 0.43762191232268677,
+        "relevance": 0.0,
+        "surface_form": "cent",
+        "uri": "http://dbpedia.org/resource/Dollar_(reactivity)",
+        "types": [],
+        "label": "Cent (reactivity)"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q42240"],
+        "score": 0.43751373607133637,
+        "relevance": 0.0,
+        "surface_form": "researchers",
+        "uri": "http://dbpedia.org/resource/Research",
+        "types": [],
+        "label": "Researchers"
+    }, {
+        "count": 2,
+        "same_as": ["http://wikidata.org/entity/Q577"],
+        "score": 0.43398521400992429,
+        "relevance": 0.23076923076923078,
+        "surface_form": "years ago",
+        "uri": "http://dbpedia.org/resource/Year",
+        "types": [],
+        "label": "Years ago"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q12136", "http://www.bbc.co.uk/things/27941351-8536-4b2f-b791-b602d3d65cd1"],
+        "score": 0.43293199479755629,
+        "relevance": 0.15384615384615385,
+        "surface_form": "health problems",
+        "uri": "http://dbpedia.org/resource/Disease",
+        "types": [],
+        "label": "Health problems"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q5404210"],
+        "score": 0.42684099492963457,
+        "relevance": 0.07692307692307693,
+        "surface_form": "peoples of Asia",
+        "uri": "http://dbpedia.org/resource/Ethnic_groups_in_Asia",
+        "types": [],
+        "label": "Peoples of Asia"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q207326"],
+        "score": 0.42636887151937231,
+        "relevance": 0.15384615384615385,
+        "surface_form": "summit",
+        "uri": "http://dbpedia.org/resource/Summit",
+        "types": [],
+        "label": "Summit"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q145", "http://www.bbc.co.uk/things/2e91364c-5c77-4660-b76e-d76202785e64"],
+        "score": 0.42094583843731392,
+        "relevance": 0.38461538461538464,
+        "surface_form": "British",
+        "uri": "http://dbpedia.org/resource/United_Kingdom",
+        "types": ["http://schema.org/Place", "http://schema.org/Country", "http://dbpedia.org/ontology/Country", "http://dbpedia.org/ontology/Place", "http://dbpedia.org/ontology/PopulatedPlace"],
+        "label": "British"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q735049"],
+        "score": 0.41496533619530251,
+        "relevance": 0.0,
+        "surface_form": "University of Maryland",
+        "uri": "http://dbpedia.org/resource/University_of_Maryland,_Baltimore_County",
+        "types": ["http://dbpedia.org/ontology/EducationalInstitution", "http://dbpedia.org/ontology/University", "http://dbpedia.org/ontology/Agent", "http://schema.org/CollegeOrUniversity", "http://dbpedia.org/ontology/Organisation", "http://schema.org/EducationalOrganization", "http://schema.org/Organization"],
+        "label": "University of Maryland, Baltimore County"
+    }, {
+        "count": 2,
+        "same_as": ["http://wikidata.org/entity/Q1509884"],
+        "score": 0.41228439204323897,
+        "relevance": 0.15384615384615385,
+        "surface_form": "padding",
+        "uri": "http://dbpedia.org/resource/Padding_(cryptography)",
+        "types": [],
+        "label": "Padding (cryptography)"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q6072386"],
+        "score": 0.38594670070379278,
+        "relevance": 0.15384615384615385,
+        "surface_form": "USA",
+        "uri": "http://dbpedia.org/resource/Iron_Chef_USA",
+        "types": ["http://dbpedia.org/ontology/TelevisionShow", "http://dbpedia.org/ontology/Work"],
+        "label": "USA (Iron Chef)"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q11016"],
+        "score": 0.38304054408833998,
+        "relevance": 0.0,
+        "surface_form": "technologically",
+        "uri": "http://dbpedia.org/resource/Technology",
+        "types": [],
+        "label": "Technologically"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q22905880"],
+        "score": 0.37900493323809653,
+        "relevance": 0.07692307692307693,
+        "surface_form": "interview",
+        "uri": "http://dbpedia.org/resource/Interview_(research)",
+        "types": [],
+        "label": "Interview (research)"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q532"],
+        "score": 0.34336711260853392,
+        "relevance": 0.0,
+        "surface_form": "villages",
+        "uri": "http://dbpedia.org/resource/Village",
+        "types": [],
+        "label": "Villages"
+    }, {
+        "count": 1,
+        "same_as": ["http://wikidata.org/entity/Q7276289"],
+        "score": 0.32016377873496238,
+        "relevance": 0.15384615384615385,
+        "surface_form": "recap",
+        "uri": "http://dbpedia.org/resource/Recap_(software)",
+        "types": [],
+        "label": "Recap (software)"
+    }],
+    "text": "The batteries industry is key to our planet: it has the capacity to save it. Or destroy it. If you achieve the first, then renewable energies - like solar, wind or geothermal energy - will become one day in our main source of energy supply. And to get to that point, we will have to systematically reduce CO2 emissions, that is to say, \\\" decarbonize \\\" the world, a fundamental part of that \\\" decarbonization \\\" has to do with transport. The \\\" but \\\" is that electric cars use lithium batteries and that poses a problem because lithium is alsoa mineral resource that will come to an end. How then to store then without polluting energy and without the cost being exaggerated? There are two elements that could have the answer :in recent years, it's reaching its limit. \\\" Since I started working in the energy sector, about seven years ago, I've watched a big change. In the manner in which energy is given, he told the BBC Chris Morimoto, who works as a manager at the Centrich British power station. And with that increase we've seen a greater mismatch between supply and demand for energy. \\\" He added. There is much more renewable energy, the company Oxis Energy, in the United Kingdom, has been investigating the battery market since 2005. His executive director, Huw Hampson-Jones, told the BBC that that problem has to do with the fact that lithium is reaching its limit.\\\" The batteries of lithium (ions of) are 26 years old in the market and are reaching the maximum of their capacity as technology. \\\" He assuredthese batteries take a long time to load, they have a limited useful life, they are downloaded fast and they're not too safe. Zinc could be the material that restores lithium in reheated batteries. Indeed, it is already being done in some of the peoples of Asia and Africa. The biotech Patrick Soon-Shiong, President of NantEnergy, a firm based in Arizona, USA, specializing in energy storage, announced last week at the One Planet summit held in New York. On 26 September, the development of a new recarticable pile made of zinc. \\\" Zinc is the' Holy Grail' of the batteries. \\\" He stated in an interview published in the United States CNBC television channel. Soon-Shiong highlighted an interesting point: that zinc (it is necessary to operate our dephensive system). It is found in the cells of our body, which can be converted into oxygen, can become a more economical way to store energy, pointed out. The company has already tested it in over 100 villages in Africa and Asia that are using solar panels and batteries made of these materials. \\\" 200. 000 people on the planet are usingthat system, \\\" explained the entrepreneur. \\\" Lithium is toxic, but zinc and air are not, it adds, it is elements of nature, but the idea of doing batteries with zinc was not his. Thomas Edison tried to develop batteries with that material 100 years ago, but he didn't get them to be technologically feasible. \\\" Now we've solved that problem, \\\" Soon-Shiong said. More recently, in April this year, researchers from the University of Maryland in the United States developed a water and zinc battery that could be used for future electronic products. NantEnergy says that its zinc and air batteries are and that they managed to achieve two objectives: make them recap and reduce the cost of storing energy a, a figurethat some of the experts in industry consider it essential to hold the system, the first commercially viable in the world, Soon-Shiong's company gets the zinc from Indonesia. In the United States, reserves have reached 5 per cent worldwide. Together, they cover half of all the zinc on the planet. Australia and China are the largest producers of zinc, on the other hand, lithium reserves barely reach a twentieth part of zinc. Materials such as lithium are expensive because they are more scarce. Moreover, extraction and prolonged exposure to lithium pose serious health problems. Zinc and air batteries are not flammable and, according to a report published in it, their remains can be safely eliminated. MIT Technology Review NantEnergy said its immediate aim is to use its product in, which allows for the provision of electrical supplies to small areas. And the company says that these batteries will have other uses of renewable energy. Renewable microns, zinc and air batteries could also serve to boost cars, cars, trains. And even motorcycles, they said Soon-Shiong, who thinks that these plans will come true in 2020. \\\" This market is huge, but there is an issue in the air. If zinc becomes \\\" the new lithium, \\\" will there be enough to withstand global demand? Now you can get notifications from BBC World. Download the new version of our padding and padding so that we won't miss our best content."
+}
